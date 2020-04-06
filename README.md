@@ -1,2 +1,2 @@
-# compsci-161
-Repository for CS 161. Winter 2020 at COCC.
+# Compsci-161 and 162
+Repository for CS 161 and 162. Winter/Spring 2020 at COCC.
